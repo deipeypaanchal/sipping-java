@@ -1,11 +1,8 @@
-package com.codewithmosh;
-
 import java.text.NumberFormat;
 import java.util.Scanner;
-
-//import java.text.NumberFormat;
-//import java.util.Arrays;
-//import java.util.Date;
+import java.text.NumberFormat;
+import java.util.Arrays;
+import java.util.Date;
 
 public class Main {
 
@@ -71,6 +68,7 @@ public class Main {
         */
 
         /*
+        //MORTGAGE CALCULATOR
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter your Principal (in $): ");
