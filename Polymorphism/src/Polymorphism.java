@@ -18,7 +18,14 @@ class TonyStark extends Avengers {
 
 public class Polymorphism {
     public static void main(String[] args) {
+
+        Avengers a  = new Avengers();
+        a.quote();
+
         CaptainAmerica b = new CaptainAmerica();
         b.quote();
+
+        TonyStark c = new TonyStark();
+        c.quote();
     }
 }
